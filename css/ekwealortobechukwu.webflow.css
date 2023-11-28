@@ -312,6 +312,7 @@ figcaption {
   color: #0075eb;
   font-size: 16px;
   font-weight: 400;
+  text-decoration: none;
 }
 
 .paragraph-light.cc-position-name {
