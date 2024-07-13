@@ -1404,6 +1404,22 @@ figcaption {
   font-weight: 700;
 }
 
+.heading.contact {
+  font-size: 2rem;
+  line-height: 2.5rem;
+  font-weight: 500;
+  margin-top: -60px;
+}
+
+.contact-btn {
+  margin-top: -60px;
+}
+
+.icon-bulb {
+  height: 100px;
+  width: 100px;
+}
+
 .link {
   border-style: none;
   border-width: 1px;
