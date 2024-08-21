@@ -675,7 +675,7 @@ figcaption {
 }
 
 .work-image.cc-work-2 {
-  background-image: url("../images/medteqprodashboard.jpg");
+  background-image: url("../images/medteqprodashboard.png");
   background-size: cover;
 }
 .work-image.cc-work-6 {
@@ -701,7 +701,7 @@ figcaption {
   grid-template-columns: 1.25fr;
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
-  background-image: url("../images/naiya-project.svg");
+  background-image: url("../images/Naiya.png");
   background-size: cover;
 }
 
@@ -717,7 +717,7 @@ figcaption {
   grid-template-columns: 1fr 1.25fr 0.75fr;
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
-  background-image: url("../images/wakacarry.svg");
+  background-image: url("../images/Wakacarry.png");
   background-size: cover;
 }
 
