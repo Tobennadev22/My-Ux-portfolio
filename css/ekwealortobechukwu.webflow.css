@@ -656,7 +656,25 @@ figcaption {
   background-clip: border-box;
   -webkit-text-fill-color: inherit;
 }
-
+.work-image.cc-work-7 {
+  position: static;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+  background-image: url("../images/monibag-mobile.jpg");
+  background-position: 0px 0px;
+  background-size: cover;
+  background-clip: border-box;
+  -webkit-text-fill-color: inherit;
+}
 .work-image.cc-work-5 {
   position: static;
   display: -webkit-box;
@@ -3295,6 +3313,21 @@ figcaption {
 }
 
 @media screen and (max-width: 991px) {
+  .contact-headline img {
+    margin-bottom: 12px;
+  }
+  .section.cc-contact {
+    padding-top: 12px;
+    /* padding-right: 80px; */
+    /* padding-left: 80px; */
+    background-color: #f4f4f4;
+  }
+  .contact {
+    padding: 54px !important;
+    text-align: center;
+    margin-bottom: 12px;
+  }
+
   #w-node-_0befc76b-828c-2822-f9fa-f2c6de040bc4-72179d3a {
     -ms-grid-column-span: 2;
     grid-column-end: 2;
